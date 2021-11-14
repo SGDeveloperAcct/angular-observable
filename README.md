@@ -10,7 +10,7 @@ Intro
 
 Refer the code to find samples for
 
-- Creating an observable and passing stream of data overtime and how asynchronous behavior is achieved
-- Example of creating event handler in observable and remove the same on unsubscribe
+- Creating an observable and passing stream of data overtime and how asynchronous behavior is achieved.
+- Example of creating event handler in observable and remove the same on unsubscribe.
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-tlrzwu)
