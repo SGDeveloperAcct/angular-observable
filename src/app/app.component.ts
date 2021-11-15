@@ -30,7 +30,7 @@ export class AppComponent {
       subscriber.next(2);
       subscriber.next(3);
       setTimeout(() => {
-        subscriber.next(5);
+        subscriber.next(4);
         subscriber.complete();
 
         // After complete next will not work
