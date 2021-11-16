@@ -28,6 +28,6 @@ Subject and its Variants
   - In this instance, no value is ever emitted to the subscriber until the first publishing.
 - Async Subject
   - Emits its last value on completion
-  - Mainly used for caching api calls response since it will not be called multiple times
+  - Mainly used for caching api calls response since it will not be called multiple time
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-tlrzwu)
